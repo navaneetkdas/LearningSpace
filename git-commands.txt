@@ -4,4 +4,5 @@
 4. git push origin
 
 changes by abhinov ..
-
+git fetch  #remote changes dsiplayed
+git pull origin main
